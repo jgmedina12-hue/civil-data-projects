@@ -1,0 +1,6 @@
+.venv/
+data/raw/
+data/interim/
+*.mdb
+.ipynb_checkpoints/
+__pycache__/
